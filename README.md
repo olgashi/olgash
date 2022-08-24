@@ -4,8 +4,8 @@
 #### I have experience working with JavaScript/Node.js, TypeScript, Express.js, GraphQL/Appollo Server, Python/Django (familiar), Go (comfortable), PostgreSQL, SQL, MongoDB, Handlebars, React/Redux, Docker, AWS.
 #### I really enjoy working on hard technical problems and learning new thecnologies.
 
-- My Personal Website is [here](https://www.olga.sh/)
-- My LinkedIn is [here](https://www.linkedin.com/in/olgashi/)
+- [Persona Website](https://www.olga.sh/)
+- [LinkedIn](https://www.linkedin.com/in/olgashi/)
 
 #### Most recently I built Arroyo <img src="https://user-images.githubusercontent.com/41551585/186273825-43a8531d-9e47-4bd3-80c8-064b8aefbedf.png" width="32" img>, a lightweight framework for the granular rehydration of logs. 
 #### Arroyo was built with React/Redux, Node.js, AWS, Docker.
