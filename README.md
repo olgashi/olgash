@@ -1,7 +1,7 @@
 
 ### Hi! I am Olga.
 #### I am a full-stack Software Engineer based in Chicago, IL.
-#### I am comfortable working with JavaScript/Node.js, TypeScript, Express.js, GraphQL/Appollo Server, PostgreSQL, SQL, MongoDB, Handlebars, React/Redux, Docker, AWS SDK.
+#### I have experience working with JavaScript/Node.js, TypeScript, Express.js, GraphQL/Appollo Server, Python/Django (familiar), Go (comfortable), PostgreSQL, SQL, MongoDB, Handlebars, React/Redux, Docker, AWS.
 #### I really enjoy working on hard technical problems and learning new thecnologies.
 
 - My Personal Website is [here](https://www.olga.sh/)
