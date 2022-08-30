@@ -1,8 +1,8 @@
 
 ### Hi! I am Olga.
 #### I am a full-stack Software Engineer based in Chicago, IL.
-#### I have experience working with JavaScript/Node.js, TypeScript, Express.js, GraphQL/Appollo Server, Python/Django (familiar), Go (comfortable), PostgreSQL, SQL, MongoDB, Handlebars, React/Redux, Docker, AWS.
-#### I really enjoy working on hard technical problems and learning new thecnologies.
+#### I have experience working with JavaScript/Node.js, TypeScript, Express.js, GraphQL/Apollo Server, Python/Django (familiar), Go (comfortable), PostgreSQL, SQL, MongoDB, Handlebars, React/Redux, Docker, AWS.
+#### I really enjoy working on hard technical problems and learning new technologies.
 
 - [Persona Website](https://www.olga.sh/)
 - [LinkedIn](https://www.linkedin.com/in/olgashi/)
@@ -17,5 +17,5 @@
   <img width="55" src="https://user-images.githubusercontent.com/41551585/186274739-80fa4874-e46f-4eb0-b8ed-9db6dc0f9e6b.svg"/>
 </div>
 
-#### Please see Arroyo case study [here](https://www.arroyoframework.com/case-study.html) 
+#### See Arroyo case study [here](https://www.arroyoframework.com/case-study.html) 
 
