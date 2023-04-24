@@ -5,8 +5,8 @@
 
 #### Skills:
 - **Frontend**: JavaScript, TypeScript, React/Redux, GraphQL, Handlebars, Pug, CSS
-- **Backend**: Node.js, Express.js, SQL, PostgreSQL, MongoDB, Apollo Server, Python/Django (familiar), Go (comfortable), RESTful APIs
-- **Tooling/Other**: AWS (Lamdba, S3, SQS, SDK, IAM, CloudTrail, EC2), Digital Ocean, Heroku, Git/GitHub, Docker, Jest, React Testing Library, Mocha.js, Chai.js, OpenApi Specification
+- **Backend**: Node.js, Express.js, SQL, PostgreSQL, MongoDB, Apollo Server, Python, Go, RESTful APIs
+- **Tooling/Cloud/Other**: AWS (Lamdba, S3, SQS, SDK, IAM, CloudTrail, EC2), Digital Ocean, Heroku, Git/GitHub, Docker, Jest, React Testing Library, Mocha.js, Chai.js, OpenApi Specification
 
 
 [Personal Website](https://www.olga.sh/)
