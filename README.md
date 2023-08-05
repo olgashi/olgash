@@ -1,7 +1,6 @@
 
 ### Hi! I am Olga.
-#### I am a full-stack Software Engineer based in Chicago, IL.
-#### I really enjoy working on hard technical problems and learning new technologies.
+#### I am a Software Engineer based in Chicago, IL.
 
 #### Skills:
 - **Frontend**: JavaScript, TypeScript, React/Redux, GraphQL, Handlebars, Pug, CSS
